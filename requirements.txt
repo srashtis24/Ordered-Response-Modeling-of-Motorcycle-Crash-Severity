@@ -1,0 +1,8 @@
+R
+tidyverse
+MASS
+mlogit
+ggplot2
+dplyr
+truncnorm
+
